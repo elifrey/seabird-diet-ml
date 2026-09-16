@@ -1,0 +1,59 @@
+Package: seabirddietDB
+Version: 0.0.1
+Date: 2019-09-06
+Title: Seabird Diet Database
+Description: Dataset collated from all known information on prey consumed by seabirds 
+  breeding in the British Isles.  We have focused on the 10 most common seabird species 
+  by total biomass during the breeding season, accounting for 95% of biomass of seabirds 
+  a marine diet in 2000. Thus the prey reflects the majority of marine prey consumed by
+  seabirds in British waters.
+Authors@R: c(
+    person(given = "Anna",
+           family = "Krystalli",
+           role = c("aut", "cre"),
+           email = "annakrystalli@googlemail.com",
+           comment = c(ORCID = "0000-0002-2378-4915")),
+    person(given = "Agnes", family = "Olin", 
+           role = c("aut"), comment = c(ORCID = "0000-0002-8508-3911")),  
+    person(given = "James", family = "Grecian",
+           role = c("aut"), comment = c(ORCID = "0000-0002-6428-719X")),
+    person(given = "Ruedi", family = "Nager", role = c("aut"),
+           email = "ruedi.nager@glasgow.ac.uk",
+           comment = c(ORCID = "000-0003-1129-5724")))       
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
+URL: https://github.com/annakrystalli/seabirddietDB
+BugReports: https://github.com/annakrystalli/seabirddietDB/issues
+Depends:
+    R (>= 2.10)
+Suggests: 
+    rlang,
+    readxl,
+    janitor,
+    readr,
+    glue,
+    purrr,
+    assertr,
+    stringr,
+    EML (>= 2.0.0),
+    covr,
+    metadatar,
+    seabirddiet.devtools,
+    sf
+Imports: 
+    dplyr,
+    tidyr,
+    here,
+    DT,
+    testthat,
+    leaflet,
+    knitr,
+    htmlwidgets,
+    stringi
+Remotes: 
+    annakrystalli/metadatar,
+    annakrystalli/seabirddiet.devtools,
+    ropensci/EML
+RoxygenNote: 6.1.1

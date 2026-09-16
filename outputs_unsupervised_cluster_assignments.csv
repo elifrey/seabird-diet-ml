@@ -1,0 +1,322 @@
+sample_unit,predatorScientificName,predatorCommonName,locality,year,decimalLatitude,decimalLongitude,cluster,pc1,pc2,era
+Alca torda | East Anglia | 1983,Alca torda,Razorbill,East Anglia,1983,52.5,1.0,4,0.32996205357742403,0.6329314159318582,before 1990
+Alca torda | Moray Firth | 1983,Alca torda,Razorbill,Moray Firth,1983,57.75,-3.5,1,0.18396055291043795,-1.1762954234369747,before 1990
+Alca torda | Newcastle | 1983,Alca torda,Razorbill,Newcastle,1983,54.972,-1.608,1,1.1242470978683592,0.6179114790057915,before 1990
+Alca torda | Rathlin | 2008,Alca torda,Razorbill,Rathlin,2008,55.29,-6.19,4,-0.5809658480849748,0.11612212294956409,1990 or later
+Alca torda | Rathlin | 2009,Alca torda,Razorbill,Rathlin,2009,55.29,-6.19,4,-0.4224049582540638,0.31375208037918667,1990 or later
+Alca torda | Rathlin | 2010,Alca torda,Razorbill,Rathlin,2010,55.29,-6.19,4,-0.6459662410581216,0.04928327245897046,1990 or later
+Fratercula arctica | Co. Kerry | 1973,Fratercula arctica,Atlantic puffin,Co. Kerry,1973,52.17,-9.75,3,-0.08460812411219146,-0.6963292015223161,before 1990
+Fratercula arctica | East Anglia | 1983,Fratercula arctica,Atlantic puffin,East Anglia,1983,52.5,1.0,4,-0.5366475520048422,0.20692096710519434,before 1990
+Fratercula arctica | Fair Isle | 1974,Fratercula arctica,Atlantic puffin,Fair Isle,1974,59.56,-1.63,4,-0.6149082154266683,-0.25181740674204794,before 1990
+Fratercula arctica | Fair Isle | 1975,Fratercula arctica,Atlantic puffin,Fair Isle,1975,59.56,-1.63,4,-0.601417609075725,-0.23609564851680054,before 1990
+Fratercula arctica | Fair Isle | 1976,Fratercula arctica,Atlantic puffin,Fair Isle,1976,59.56,-1.63,4,-0.7475876331733212,-0.09028507323927737,before 1990
+Fratercula arctica | Fair Isle | 1977,Fratercula arctica,Atlantic puffin,Fair Isle,1977,59.56,-1.63,4,-0.6705918960568653,-0.14443790460520944,before 1990
+Fratercula arctica | Fair Isle | 1986,Fratercula arctica,Atlantic puffin,Fair Isle,1986,59.56,-1.63,4,-0.7203464109113608,-0.10777025501039689,before 1990
+Fratercula arctica | Fair Isle | 1987,Fratercula arctica,Atlantic puffin,Fair Isle,1987,59.56,-1.63,4,-0.7428803679930045,-0.06636324440158888,before 1990
+Fratercula arctica | Fair Isle | 1988,Fratercula arctica,Atlantic puffin,Fair Isle,1988,59.56,-1.63,4,-0.08270945032284695,-0.289993509737831,before 1990
+Fratercula arctica | Fair Isle | 1989,Fratercula arctica,Atlantic puffin,Fair Isle,1989,59.56,-1.63,4,-0.40264643399186245,-0.017739503357797493,before 1990
+Fratercula arctica | Fair Isle | 1990,Fratercula arctica,Atlantic puffin,Fair Isle,1990,59.56,-1.63,4,-0.2140251478082829,-0.017986027657993973,1990 or later
+Fratercula arctica | Fair Isle | 1991,Fratercula arctica,Atlantic puffin,Fair Isle,1991,59.56,-1.63,4,-0.613213300612015,-0.044510439772356504,1990 or later
+Fratercula arctica | Fair Isle | 1992,Fratercula arctica,Atlantic puffin,Fair Isle,1992,59.56,-1.63,4,-0.11030833217590764,-0.30438105523284037,1990 or later
+Fratercula arctica | Fair Isle | 1993,Fratercula arctica,Atlantic puffin,Fair Isle,1993,59.56,-1.63,4,-0.22570027163960785,-0.14223203118131855,1990 or later
+Fratercula arctica | Fair Isle | 1994,Fratercula arctica,Atlantic puffin,Fair Isle,1994,59.56,-1.63,4,-0.48549001697810645,-0.1264867244772119,1990 or later
+Fratercula arctica | Fair Isle | 1995,Fratercula arctica,Atlantic puffin,Fair Isle,1995,59.56,-1.63,4,-0.28807512465357465,-0.06022490788658408,1990 or later
+Fratercula arctica | Fair Isle | 1996,Fratercula arctica,Atlantic puffin,Fair Isle,1996,59.56,-1.63,4,-0.5557295430005992,-0.021810817069862404,1990 or later
+Fratercula arctica | Fair Isle | 1997,Fratercula arctica,Atlantic puffin,Fair Isle,1997,59.56,-1.63,4,-0.19839663279224598,-0.2045274834572629,1990 or later
+Fratercula arctica | Fair Isle | 1998,Fratercula arctica,Atlantic puffin,Fair Isle,1998,59.56,-1.63,4,0.004856448692891075,-0.3652216621825691,1990 or later
+Fratercula arctica | Fair Isle | 1999,Fratercula arctica,Atlantic puffin,Fair Isle,1999,59.56,-1.63,4,-0.6538204471773472,-0.06611961747820767,1990 or later
+Fratercula arctica | Fair Isle | 2000,Fratercula arctica,Atlantic puffin,Fair Isle,2000,59.56,-1.63,4,-0.6864299174210641,-0.037454237283980556,1990 or later
+Fratercula arctica | Fair Isle | 2001,Fratercula arctica,Atlantic puffin,Fair Isle,2001,59.56,-1.63,4,-0.41354952037020654,-0.11135117279161255,1990 or later
+Fratercula arctica | Fair Isle | 2002,Fratercula arctica,Atlantic puffin,Fair Isle,2002,59.56,-1.63,4,-0.213796387209479,0.25971486782711345,1990 or later
+Fratercula arctica | Fair Isle | 2003,Fratercula arctica,Atlantic puffin,Fair Isle,2003,59.56,-1.63,4,-0.050366746782521156,0.4701401044042963,1990 or later
+Fratercula arctica | Fair Isle | 2004,Fratercula arctica,Atlantic puffin,Fair Isle,2004,59.56,-1.63,4,-0.5065855351902806,-0.1211334545341232,1990 or later
+Fratercula arctica | Fair Isle | 2005,Fratercula arctica,Atlantic puffin,Fair Isle,2005,59.56,-1.63,4,-0.3298795448423425,0.21823224937450644,1990 or later
+Fratercula arctica | Fair Isle | 2006,Fratercula arctica,Atlantic puffin,Fair Isle,2006,59.56,-1.63,4,0.2060104933080394,-0.12391741356730442,1990 or later
+Fratercula arctica | Fair Isle | 2007,Fratercula arctica,Atlantic puffin,Fair Isle,2007,59.56,-1.63,4,-0.3600206965171138,-0.17666919014085591,1990 or later
+Fratercula arctica | Fair Isle | 2008,Fratercula arctica,Atlantic puffin,Fair Isle,2008,59.56,-1.63,4,-0.2778736972333872,-0.20940262862103032,1990 or later
+Fratercula arctica | Fair Isle | 2009,Fratercula arctica,Atlantic puffin,Fair Isle,2009,59.56,-1.63,4,-0.1711317180190783,-0.2712080635103117,1990 or later
+Fratercula arctica | Fair Isle | 2010,Fratercula arctica,Atlantic puffin,Fair Isle,2010,59.56,-1.63,4,-0.35808290192499964,-0.14761704070348244,1990 or later
+Fratercula arctica | Fair Isle | 2011,Fratercula arctica,Atlantic puffin,Fair Isle,2011,59.56,-1.63,4,-0.3699661360305008,-0.16418475779555458,1990 or later
+Fratercula arctica | Fair Isle | 2012,Fratercula arctica,Atlantic puffin,Fair Isle,2012,59.56,-1.63,4,-0.292715107791129,-0.19112267502071756,1990 or later
+Fratercula arctica | Fair Isle | 2013,Fratercula arctica,Atlantic puffin,Fair Isle,2013,59.56,-1.63,4,-0.2422057255224372,0.1340600601256362,1990 or later
+Fratercula arctica | Faraid Head | 1973,Fratercula arctica,Atlantic puffin,Faraid Head,1973,58.61,-4.77,4,-0.23206264345043734,-0.650821154906946,before 1990
+Fratercula arctica | Faraid Head | 1975,Fratercula arctica,Atlantic puffin,Faraid Head,1975,58.61,-4.77,4,-0.5760429330703285,-0.2636200161900299,before 1990
+Fratercula arctica | Farne Islands | 1962,Fratercula arctica,Atlantic puffin,Farne Islands,1962,55.6167,-1.6483,4,-0.6871578133033125,-0.04058482103538422,before 1990
+Fratercula arctica | Flannan Islands | 1975,Fratercula arctica,Atlantic puffin,Flannan Islands,1975,58.3,-7.6,4,-0.4782138163944106,-0.33171021273337525,before 1990
+Fratercula arctica | Foula | 1974,Fratercula arctica,Atlantic puffin,Foula,1974,60.13,-2.06,4,-0.7539097158436529,-0.068405104668155,before 1990
+Fratercula arctica | Hermaness | 1973,Fratercula arctica,Atlantic puffin,Hermaness,1973,60.84,-0.88,4,-0.7421754946314205,-0.19424469669039926,before 1990
+Fratercula arctica | Hermaness | 1974,Fratercula arctica,Atlantic puffin,Hermaness,1974,60.84,-0.88,4,-0.6913432525641369,-0.3615842755612956,before 1990
+Fratercula arctica | Hermaness | 1976,Fratercula arctica,Atlantic puffin,Hermaness,1976,60.84,-0.88,4,-0.6305033787816977,-0.36463080605707915,before 1990
+Fratercula arctica | Isle of May | 1972,Fratercula arctica,Atlantic puffin,Isle of May,1972,56.19,-2.56,4,-0.6617552383206574,-0.3800480259685067,before 1990
+Fratercula arctica | Isle of May | 1973,Fratercula arctica,Atlantic puffin,Isle of May,1973,56.19,-2.56,4,-0.6516981729756647,-0.16087032883572785,before 1990
+Fratercula arctica | Isle of May | 1974,Fratercula arctica,Atlantic puffin,Isle of May,1974,56.19,-2.56,4,-0.3857390716338257,-0.4072217665338733,before 1990
+Fratercula arctica | Isle of May | 1975,Fratercula arctica,Atlantic puffin,Isle of May,1975,56.19,-2.56,3,-0.15082688957757134,-0.6636751647367214,before 1990
+Fratercula arctica | Isle of May | 1976,Fratercula arctica,Atlantic puffin,Isle of May,1976,56.19,-2.56,4,-0.38471717123373905,-0.44281093904790264,before 1990
+Fratercula arctica | North Rona | 1972,Fratercula arctica,Atlantic puffin,North Rona,1972,59.12,-5.82,4,-0.7585855593194892,-0.262492570116299,before 1990
+Fratercula arctica | North Rona | 1976,Fratercula arctica,Atlantic puffin,North Rona,1976,59.12,-5.82,4,-0.7802454867298952,-0.4021456878917688,before 1990
+Fratercula arctica | Shiants Islands | 1973,Fratercula arctica,Atlantic puffin,Shiants Islands,1973,57.88,-6.35,4,-0.5428066824393175,-0.3614868948465137,before 1990
+Fratercula arctica | Shiants Islands | 1975,Fratercula arctica,Atlantic puffin,Shiants Islands,1975,57.88,-6.35,4,-0.5615696014093396,-0.2885398373962776,before 1990
+Fratercula arctica | Shiants Islands | 1976,Fratercula arctica,Atlantic puffin,Shiants Islands,1976,57.88,-6.35,3,0.041530509191511945,-0.8135294757189295,before 1990
+Fratercula arctica | Skomer | 1970,Fratercula arctica,Atlantic puffin,Skomer,1970,51.62,-5.29,3,0.8610819632672444,-0.28221890047166576,before 1990
+Fratercula arctica | St Kilda | 1971,Fratercula arctica,Atlantic puffin,St Kilda,1971,57.82,-8.58,4,-0.679739381883131,-0.4642235189537484,before 1990
+Fratercula arctica | St Kilda | 1973,Fratercula arctica,Atlantic puffin,St Kilda,1973,57.82,-8.58,4,-0.48695284732759037,-0.5539591133229138,before 1990
+Fratercula arctica | St Kilda | 1974,Fratercula arctica,Atlantic puffin,St Kilda,1974,57.82,-8.58,4,-0.43506592491109713,-0.3956842192918391,before 1990
+Fratercula arctica | St Kilda | 1975,Fratercula arctica,Atlantic puffin,St Kilda,1975,57.82,-8.58,3,0.03272202572167696,-0.8507156087179266,before 1990
+Fratercula arctica | St Kilda | 1976,Fratercula arctica,Atlantic puffin,St Kilda,1976,57.82,-8.58,4,-0.326925201624313,-0.537092659273514,before 1990
+Fratercula arctica | Sule Skerry | 1975,Fratercula arctica,Atlantic puffin,Sule Skerry,1975,59.08,-4.41,3,-0.002034022510079488,-0.7550356301966119,before 1990
+Fulmarus glacialis | Fair Isle | 1997,Fulmarus glacialis,Northern fulmar,Fair Isle,1997,59.56,-1.63,4,-0.1435372917870404,-0.4158456387041274,1990 or later
+Fulmarus glacialis | Fair Isle | 1998,Fulmarus glacialis,Northern fulmar,Fair Isle,1998,59.56,-1.63,4,0.33688659365355,-0.7316636530958024,1990 or later
+Fulmarus glacialis | Foula | 1980,Fulmarus glacialis,Northern fulmar,Foula,1980,60.13,-2.06,3,1.0323103503058837,0.05182491514049902,before 1990
+Fulmarus glacialis | Foula | 1993,Fulmarus glacialis,Northern fulmar,Foula,1993,60.13,-2.06,2,1.0826416317543714,-0.17081208349523852,1990 or later
+Fulmarus glacialis | St Kilda | 1981,Fulmarus glacialis,Northern fulmar,St Kilda,1981,57.81,-8.58,2,0.3808801158443028,1.0133383672372471,before 1990
+Fulmarus glacialis | St Kilda | 1982,Fulmarus glacialis,Northern fulmar,St Kilda,1982,57.81,-8.58,4,-0.1443702992728096,-1.2678582127242197,before 1990
+Fulmarus glacialis | St Kilda | 1993,Fulmarus glacialis,Northern fulmar,St Kilda,1993,57.81,-8.58,2,0.6033361950049816,-0.990894146336506,1990 or later
+Fulmarus glacialis | Unst & Foula | 1999,Fulmarus glacialis,Northern fulmar,Unst & Foula,1999,60.44,-2.48,2,0.7360840792651878,-0.6344761595321867,1990 or later
+Fulmarus glacialis | Yell | 1985,Fulmarus glacialis,Northern fulmar,Yell,1985,60.62,-1.1,3,1.0359000471632205,0.10109431029322569,before 1990
+Morus bassanus | Bass Rock | 1998,Morus bassanus,Northern gannet,Bass Rock,1998,56.1,-2.6,4,0.010254480876896723,-0.5389457586708294,1990 or later
+Morus bassanus | Bass Rock | 2001,Morus bassanus,Northern gannet,Bass Rock,2001,56.1,-2.6,3,0.7796594478851125,-0.220670471630709,1990 or later
+Morus bassanus | Bass Rock | 2002,Morus bassanus,Northern gannet,Bass Rock,2002,56.1,-2.6,4,-0.2750020721338569,-0.3310253716567878,1990 or later
+Morus bassanus | Bass Rock | 2003,Morus bassanus,Northern gannet,Bass Rock,2003,56.1,-2.6,4,-0.25089579280521573,-0.40529753292077375,1990 or later
+Morus bassanus | Bass Rock | 2011,Morus bassanus,Northern gannet,Bass Rock,2011,56.1,-2.6,4,-0.3097030263835459,-0.7302572427466488,1990 or later
+Morus bassanus | Grassholm Island | 2009,Morus bassanus,Northern gannet,Grassholm Island,2009,51.71666667,-5.466666667,4,0.2920891708289814,-1.1440363031682057,1990 or later
+Morus bassanus | Great Saltee | 2000,Morus bassanus,Northern gannet,Great Saltee,2000,52.1,-6.7,4,-0.2460942373342803,-0.420116853084711,1990 or later
+Phalacrocorax aristotelis | Canna | 1994,Phalacrocorax aristotelis,European shag,Canna,1994,57.05,-6.53,4,-0.5616323262412521,-0.3072216980175932,1990 or later
+Phalacrocorax aristotelis | Canna | 1997,Phalacrocorax aristotelis,European shag,Canna,1997,57.05,-6.53,4,-0.1612588331297174,-0.33927520091398466,1990 or later
+Phalacrocorax aristotelis | Canna | 2001,Phalacrocorax aristotelis,European shag,Canna,2001,57.05,-6.53,4,-0.13227486606256852,-0.2955553207609214,1990 or later
+Phalacrocorax aristotelis | Canna | 2003,Phalacrocorax aristotelis,European shag,Canna,2003,57.05,-6.53,4,-0.6360887461741535,0.3284261734338209,1990 or later
+Phalacrocorax aristotelis | Canna | 2004,Phalacrocorax aristotelis,European shag,Canna,2004,57.05,-6.53,4,0.20399603091504864,-0.5946235810956734,1990 or later
+Phalacrocorax aristotelis | Canna | 2006,Phalacrocorax aristotelis,European shag,Canna,2006,57.05,-6.53,4,0.7736834471633321,-0.4992123807559383,1990 or later
+Phalacrocorax aristotelis | Canna | 2007,Phalacrocorax aristotelis,European shag,Canna,2007,57.05,-6.53,4,0.2278828693535324,-0.5974110210208764,1990 or later
+Phalacrocorax aristotelis | Canna | 2008,Phalacrocorax aristotelis,European shag,Canna,2008,57.05,-6.53,4,-0.5261534678706815,-0.5079594828048382,1990 or later
+Phalacrocorax aristotelis | Canna | 2009,Phalacrocorax aristotelis,European shag,Canna,2009,57.05,-6.53,4,0.2026365482929639,-0.527370369775709,1990 or later
+Phalacrocorax aristotelis | Canna | 2010,Phalacrocorax aristotelis,European shag,Canna,2010,57.05,-6.53,4,-0.011373372079288149,-0.4408040215447177,1990 or later
+Phalacrocorax aristotelis | Canna | 2011,Phalacrocorax aristotelis,European shag,Canna,2011,57.05,-6.53,4,-0.14624868257380397,-0.4511028678839675,1990 or later
+Phalacrocorax aristotelis | Canna | 2012,Phalacrocorax aristotelis,European shag,Canna,2012,57.05,-6.53,4,-0.006743568313420705,-0.3726343690522091,1990 or later
+Phalacrocorax aristotelis | Canna | 2013,Phalacrocorax aristotelis,European shag,Canna,2013,57.05,-6.53,4,-0.6332802306617108,0.31183040472795737,1990 or later
+Phalacrocorax aristotelis | Canna | 2014,Phalacrocorax aristotelis,European shag,Canna,2014,57.05,-6.53,4,-0.20808364899859674,-0.25437376351645774,1990 or later
+Phalacrocorax aristotelis | Canna | 2015,Phalacrocorax aristotelis,European shag,Canna,2015,57.05,-6.53,4,-0.4666400834570023,-0.13157824900663867,1990 or later
+Phalacrocorax aristotelis | Cornwall | 1933,Phalacrocorax aristotelis,European shag,Cornwall,1933,50.266,-5.0527,4,-0.3862327178108226,0.22660678649092497,before 1990
+Phalacrocorax aristotelis | Farne Islands | 1962,Phalacrocorax aristotelis,European shag,Farne Islands,1962,55.6167,-1.6483,4,-0.6037048583603549,-0.1324648029005666,before 1990
+Phalacrocorax aristotelis | Isle of May | 1988,Phalacrocorax aristotelis,European shag,Isle of May,1988,56.19,-2.56,4,-0.7422610125813792,-0.07091557034748253,before 1990
+Phalacrocorax aristotelis | Isle of May | 1991,Phalacrocorax aristotelis,European shag,Isle of May,1991,56.19,-2.56,4,-0.6253646817238366,-0.08536794576402104,1990 or later
+Phalacrocorax aristotelis | Loch Ewe | 1965,Phalacrocorax aristotelis,European shag,Loch Ewe,1965,57.8197,-5.6352,4,-0.07119039535136028,-0.8200761889794081,before 1990
+"Phalacrocorax aristotelis | SW-Scotland, Clyde | 1938",Phalacrocorax aristotelis,European shag,"SW-Scotland, Clyde",1938,55.7536,-4.9286,4,-0.44887450905857434,0.06908466134821568,before 1990
+Puffinus puffinus | Rhum | 1985,Puffinus puffinus,Manx Shearwater,Rhum,1985,56.98,-6.32,4,-0.5849568229128379,-0.5956442850902605,before 1990
+Rissa tridactyla | Canna | 1987,Rissa tridactyla,Black-legged kittiwake,Canna,1987,57.05,-6.53,4,0.7478844573256704,-0.30370353560445973,before 1990
+Rissa tridactyla | Canna | 1988,Rissa tridactyla,Black-legged kittiwake,Canna,1988,57.05,-6.53,4,0.762602743000684,-0.4232432633477238,before 1990
+Rissa tridactyla | Canna | 1989,Rissa tridactyla,Black-legged kittiwake,Canna,1989,57.05,-6.53,3,0.8692298972613561,0.0876672287413491,before 1990
+Rissa tridactyla | Canna | 1990,Rissa tridactyla,Black-legged kittiwake,Canna,1990,57.05,-6.53,3,1.0520443136735627,0.14309059316159126,1990 or later
+Rissa tridactyla | Canna | 1991,Rissa tridactyla,Black-legged kittiwake,Canna,1991,57.05,-6.53,3,0.829434137085885,0.06116358871673428,1990 or later
+Rissa tridactyla | Canna | 1992,Rissa tridactyla,Black-legged kittiwake,Canna,1992,57.05,-6.53,4,0.5997354217579497,-0.3729791210409055,1990 or later
+Rissa tridactyla | Canna | 1993,Rissa tridactyla,Black-legged kittiwake,Canna,1993,57.05,-6.53,3,0.795205957497074,-0.0028464055088046904,1990 or later
+Rissa tridactyla | Canna | 1994,Rissa tridactyla,Black-legged kittiwake,Canna,1994,57.05,-6.53,3,1.0413264969326672,0.12525583999818954,1990 or later
+Rissa tridactyla | Canna | 1995,Rissa tridactyla,Black-legged kittiwake,Canna,1995,57.05,-6.53,4,0.7924626702408102,-0.08041446983790525,1990 or later
+Rissa tridactyla | Canna | 1996,Rissa tridactyla,Black-legged kittiwake,Canna,1996,57.05,-6.53,3,0.7701347206543615,-0.18511938592577643,1990 or later
+Rissa tridactyla | Canna | 1997,Rissa tridactyla,Black-legged kittiwake,Canna,1997,57.05,-6.53,3,0.7980397391015311,-0.04823173739215507,1990 or later
+Rissa tridactyla | Canna | 1998,Rissa tridactyla,Black-legged kittiwake,Canna,1998,57.05,-6.53,4,0.6367311890047391,-0.4734797277170892,1990 or later
+Rissa tridactyla | Canna | 1999,Rissa tridactyla,Black-legged kittiwake,Canna,1999,57.05,-6.53,3,0.7274580912630046,-0.24603276181782277,1990 or later
+Rissa tridactyla | Canna | 2000,Rissa tridactyla,Black-legged kittiwake,Canna,2000,57.05,-6.53,3,0.9596202780219726,-0.09750505793635797,1990 or later
+Rissa tridactyla | Canna | 2001,Rissa tridactyla,Black-legged kittiwake,Canna,2001,57.05,-6.53,3,0.787824476584784,-0.009864629307398134,1990 or later
+Rissa tridactyla | Canna | 2002,Rissa tridactyla,Black-legged kittiwake,Canna,2002,57.05,-6.53,3,0.9610047292421722,-0.15208855656072173,1990 or later
+Rissa tridactyla | Canna | 2003,Rissa tridactyla,Black-legged kittiwake,Canna,2003,57.05,-6.53,3,0.8502677285021352,-0.04696519040506061,1990 or later
+Rissa tridactyla | Canna | 2004,Rissa tridactyla,Black-legged kittiwake,Canna,2004,57.05,-6.53,3,0.53190481990651,-0.8225419374124828,1990 or later
+Rissa tridactyla | Canna | 2005,Rissa tridactyla,Black-legged kittiwake,Canna,2005,57.05,-6.53,4,0.6148131258466043,-0.33991007309867427,1990 or later
+Rissa tridactyla | Canna | 2007,Rissa tridactyla,Black-legged kittiwake,Canna,2007,57.05,-6.53,3,0.8395712129524119,0.023421846839499032,1990 or later
+Rissa tridactyla | Canna | 2008,Rissa tridactyla,Black-legged kittiwake,Canna,2008,57.05,-6.53,3,0.6000230922652403,0.6159361756162607,1990 or later
+Rissa tridactyla | Canna | 2009,Rissa tridactyla,Black-legged kittiwake,Canna,2009,57.05,-6.53,3,0.41381839087570604,0.45553539698302636,1990 or later
+Rissa tridactyla | Canna | 2011,Rissa tridactyla,Black-legged kittiwake,Canna,2011,57.05,-6.53,3,0.13195690026814966,0.18395225580293423,1990 or later
+Rissa tridactyla | Canna | 2014,Rissa tridactyla,Black-legged kittiwake,Canna,2014,57.05,-6.53,4,0.648616723573138,0.08490461313941701,1990 or later
+Rissa tridactyla | Canna | 2015,Rissa tridactyla,Black-legged kittiwake,Canna,2015,57.05,-6.53,3,0.27330676750265875,-0.014490028421459465,1990 or later
+Rissa tridactyla | Fair Isle | 1986,Rissa tridactyla,Black-legged kittiwake,Fair Isle,1986,59.56,-1.63,4,-0.7539097158436524,-0.06840510466815511,before 1990
+Rissa tridactyla | Fair Isle | 1987,Rissa tridactyla,Black-legged kittiwake,Fair Isle,1987,59.56,-1.63,4,-0.7539097158436525,-0.06840510466815508,before 1990
+Rissa tridactyla | Fair Isle | 1988,Rissa tridactyla,Black-legged kittiwake,Fair Isle,1988,59.56,-1.63,4,-0.7099688890343844,-0.09682689049533005,before 1990
+Rissa tridactyla | Fair Isle | 2000,Rissa tridactyla,Black-legged kittiwake,Fair Isle,2000,59.56,-1.63,3,0.8285367662593155,0.052585051137430915,1990 or later
+Rissa tridactyla | Faraid Head | 1986,Rissa tridactyla,Black-legged kittiwake,Faraid Head,1986,58.57,-4.77,4,-0.7539097158436527,-0.068405104668155,before 1990
+Rissa tridactyla | Farne Islands | 1998,Rissa tridactyla,Black-legged kittiwake,Farne Islands,1998,55.6167,-1.6483,3,0.1864656059487891,0.10555530622882195,1990 or later
+Rissa tridactyla | Farne Islands | 1999,Rissa tridactyla,Black-legged kittiwake,Farne Islands,1999,55.6167,-1.6483,3,0.2435708244639327,-0.05249389381875578,1990 or later
+Rissa tridactyla | Farne Islands | 2000,Rissa tridactyla,Black-legged kittiwake,Farne Islands,2000,55.6167,-1.6483,3,0.15264331464866643,0.08851051102103938,1990 or later
+Rissa tridactyla | Inchcolm | 1997,Rissa tridactyla,Black-legged kittiwake,Inchcolm,1997,56.03,-3.3,4,0.1738912622824735,0.5208677615608761,1990 or later
+Rissa tridactyla | Inchcolm | 1998,Rissa tridactyla,Black-legged kittiwake,Inchcolm,1998,56.03,-3.3,3,0.12125679565291066,0.3330274901359285,1990 or later
+Rissa tridactyla | Inchcolm | 2000,Rissa tridactyla,Black-legged kittiwake,Inchcolm,2000,56.03,-3.3,3,0.16310817852694298,0.30883349907203417,1990 or later
+Rissa tridactyla | Inchkeith | 1997,Rissa tridactyla,Black-legged kittiwake,Inchkeith,1997,56.03,-3.13,4,0.1407917356513679,0.6300069619829258,1990 or later
+Rissa tridactyla | Inchkeith | 1998,Rissa tridactyla,Black-legged kittiwake,Inchkeith,1998,56.03,-3.13,3,0.16800111257208608,0.27531495874307993,1990 or later
+Rissa tridactyla | Inchkeith | 1999,Rissa tridactyla,Black-legged kittiwake,Inchkeith,1999,56.03,-3.13,4,0.11965532102193975,0.49398302500563546,1990 or later
+Rissa tridactyla | Iresgoe and Inver Hill | 1987,Rissa tridactyla,Black-legged kittiwake,Iresgoe and Inver Hill,1987,58.38,-3.1,4,-0.7539097158436524,-0.06840510466815515,before 1990
+Rissa tridactyla | Iresgoe and Inver Hill | 1988,Rissa tridactyla,Black-legged kittiwake,Iresgoe and Inver Hill,1988,58.38,-3.1,4,-0.621304692546429,-0.09358789132917464,before 1990
+Rissa tridactyla | Isle of May | 1986,Rissa tridactyla,Black-legged kittiwake,Isle of May,1986,56.19,-2.56,3,1.0387828006640736,0.12591493440244034,before 1990
+Rissa tridactyla | Isle of May | 1987,Rissa tridactyla,Black-legged kittiwake,Isle of May,1987,56.19,-2.56,3,0.8818547728986819,0.2535543717507138,before 1990
+Rissa tridactyla | Isle of May | 1988,Rissa tridactyla,Black-legged kittiwake,Isle of May,1988,56.19,-2.56,3,0.7763932680956748,0.3319573746354161,before 1990
+Rissa tridactyla | Isle of May | 1989,Rissa tridactyla,Black-legged kittiwake,Isle of May,1989,56.19,-2.56,3,0.11811788900436213,-0.09976022309807824,before 1990
+Rissa tridactyla | Isle of May | 1990,Rissa tridactyla,Black-legged kittiwake,Isle of May,1990,56.19,-2.56,3,0.10366514932275035,0.023416525687776774,1990 or later
+Rissa tridactyla | Isle of May | 1991,Rissa tridactyla,Black-legged kittiwake,Isle of May,1991,56.19,-2.56,3,0.31351388784881074,0.08042389727571012,1990 or later
+Rissa tridactyla | Isle of May | 1992,Rissa tridactyla,Black-legged kittiwake,Isle of May,1992,56.19,-2.56,3,0.17177343306812012,0.051985491632185514,1990 or later
+Rissa tridactyla | Isle of May | 1993,Rissa tridactyla,Black-legged kittiwake,Isle of May,1993,56.19,-2.56,3,0.142860237835334,0.05554011046365577,1990 or later
+Rissa tridactyla | Isle of May | 1994,Rissa tridactyla,Black-legged kittiwake,Isle of May,1994,56.19,-2.56,3,0.06994101177955957,0.1523463733418992,1990 or later
+Rissa tridactyla | Isle of May | 1995,Rissa tridactyla,Black-legged kittiwake,Isle of May,1995,56.19,-2.56,3,0.0835592166535654,0.023365774515551805,1990 or later
+Rissa tridactyla | Isle of May | 1996,Rissa tridactyla,Black-legged kittiwake,Isle of May,1996,56.19,-2.56,3,0.6777831888571948,0.4025473999469551,1990 or later
+Rissa tridactyla | Isle of May | 1997,Rissa tridactyla,Black-legged kittiwake,Isle of May,1997,56.19,-2.56,3,0.3654277588023114,0.030386451623045516,1990 or later
+Rissa tridactyla | Isle of May | 1998,Rissa tridactyla,Black-legged kittiwake,Isle of May,1998,56.19,-2.56,3,0.24461116185950196,0.059156249717142236,1990 or later
+Rissa tridactyla | Isle of May | 1999,Rissa tridactyla,Black-legged kittiwake,Isle of May,1999,56.19,-2.56,3,0.2766526419725624,0.12521187525530367,1990 or later
+Rissa tridactyla | Isle of May | 2000,Rissa tridactyla,Black-legged kittiwake,Isle of May,2000,56.19,-2.56,3,0.32268777117475866,0.06640211681399248,1990 or later
+Rissa tridactyla | Isle of May | 2001,Rissa tridactyla,Black-legged kittiwake,Isle of May,2001,56.19,-2.56,3,0.6010641257220634,0.35672114110191516,1990 or later
+Rissa tridactyla | Isle of May | 2002,Rissa tridactyla,Black-legged kittiwake,Isle of May,2002,56.19,-2.56,3,0.7980090954821099,0.1728848941420738,1990 or later
+Rissa tridactyla | Isle of May | 2003,Rissa tridactyla,Black-legged kittiwake,Isle of May,2003,56.19,-2.56,3,0.7247294352499215,0.3286157137219924,1990 or later
+Rissa tridactyla | Isle of May | 2004,Rissa tridactyla,Black-legged kittiwake,Isle of May,2004,56.19,-2.56,3,0.6128984097396646,0.33907478866150664,1990 or later
+Rissa tridactyla | Isle of May | 2005,Rissa tridactyla,Black-legged kittiwake,Isle of May,2005,56.19,-2.56,3,0.8670214698897685,0.08824777577389312,1990 or later
+Rissa tridactyla | Isle of May | 2006,Rissa tridactyla,Black-legged kittiwake,Isle of May,2006,56.19,-2.56,3,0.5683365725988183,0.394906534636908,1990 or later
+Rissa tridactyla | Isle of May | 2007,Rissa tridactyla,Black-legged kittiwake,Isle of May,2007,56.19,-2.56,3,0.5605609678664089,0.3114923039567618,1990 or later
+Rissa tridactyla | Isle of May | 2008,Rissa tridactyla,Black-legged kittiwake,Isle of May,2008,56.19,-2.56,3,0.5087956630123629,0.3758274953171505,1990 or later
+Rissa tridactyla | Isle of May | 2009,Rissa tridactyla,Black-legged kittiwake,Isle of May,2009,56.19,-2.56,3,0.5895247056256827,0.34448268197578086,1990 or later
+Rissa tridactyla | Isle of May | 2010,Rissa tridactyla,Black-legged kittiwake,Isle of May,2010,56.19,-2.56,3,0.45666209533639546,0.49723256420749046,1990 or later
+Rissa tridactyla | Isle of May | 2011,Rissa tridactyla,Black-legged kittiwake,Isle of May,2011,56.19,-2.56,3,0.4545127807798724,0.3938046800017385,1990 or later
+Rissa tridactyla | Isle of May | 2012,Rissa tridactyla,Black-legged kittiwake,Isle of May,2012,56.19,-2.56,3,0.5378205649948176,0.3450318270997531,1990 or later
+Rissa tridactyla | Isle of May | 2013,Rissa tridactyla,Black-legged kittiwake,Isle of May,2013,56.19,-2.56,3,0.5270846419310855,0.3540086413825684,1990 or later
+Rissa tridactyla | Isle of May | 2014,Rissa tridactyla,Black-legged kittiwake,Isle of May,2014,56.19,-2.56,3,0.5489736995045873,0.4377341972976642,1990 or later
+Rissa tridactyla | Isle of May | 2015,Rissa tridactyla,Black-legged kittiwake,Isle of May,2015,56.19,-2.56,3,0.5213220513318074,0.35986429467928155,1990 or later
+Rissa tridactyla | Lambay | 2009,Rissa tridactyla,Black-legged kittiwake,Lambay,2009,53.49,-6.02,4,0.008530429510012122,0.5316072471589576,1990 or later
+Rissa tridactyla | Lambay | 2010,Rissa tridactyla,Black-legged kittiwake,Lambay,2010,53.49,-6.02,4,-0.23906288627073227,0.26960151880877875,1990 or later
+Rissa tridactyla | Lowestoft | 2008,Rissa tridactyla,Black-legged kittiwake,Lowestoft,2008,52.48,1.75,4,-0.3866615604182498,0.3964543097646376,1990 or later
+Rissa tridactyla | Lowestoft | 2009,Rissa tridactyla,Black-legged kittiwake,Lowestoft,2009,52.48,1.75,4,-0.10185743645169822,0.4483474700047868,1990 or later
+Rissa tridactyla | Lowestoft | 2010,Rissa tridactyla,Black-legged kittiwake,Lowestoft,2010,52.48,1.75,4,0.08283027834072866,0.5857865181116181,1990 or later
+Rissa tridactyla | Lowestoft | 2012,Rissa tridactyla,Black-legged kittiwake,Lowestoft,2012,52.48,1.75,4,-0.5048211982120631,0.2734966400455045,1990 or later
+Rissa tridactyla | Lowestoft | 2013,Rissa tridactyla,Black-legged kittiwake,Lowestoft,2013,52.48,1.75,4,-0.5903617125330742,0.10012139631890617,1990 or later
+Rissa tridactyla | Rathlin | 2009,Rissa tridactyla,Black-legged kittiwake,Rathlin,2009,55.29,-6.19,4,-0.14439041586164178,0.753969266698626,1990 or later
+Rissa tridactyla | Rathlin | 2010,Rissa tridactyla,Black-legged kittiwake,Rathlin,2010,55.29,-6.19,4,0.010579926912026307,0.9257800927820493,1990 or later
+Rissa tridactyla | Sule Skerry | 1986,Rissa tridactyla,Black-legged kittiwake,Sule Skerry,1986,59.08,-4.41,4,-0.7539097158436523,-0.06840510466815508,before 1990
+Rissa tridactyla | Sumburgh Head | 1987,Rissa tridactyla,Black-legged kittiwake,Sumburgh Head,1987,59.85429,-1.2753087,4,-0.7042492514974119,-0.14112200254216128,before 1990
+Rissa tridactyla | Sumburgh Head | 1988,Rissa tridactyla,Black-legged kittiwake,Sumburgh Head,1988,59.85429,-1.2753087,4,0.3363612084298458,-0.8052891984299677,before 1990
+Uria aalge | Anglesey | 2009,Uria aalge,Common guillemot,Anglesey,2009,53.31,-4.43,4,-0.17813449520631489,0.6158515220782952,1990 or later
+Uria aalge | Bempton | 2009,Uria aalge,Common guillemot,Bempton,2009,54.13,-0.17,4,-0.267826020443947,0.4691948049662571,1990 or later
+Uria aalge | Buchan/Aberdeen | 1983,Uria aalge,Common guillemot,Buchan/Aberdeen,1983,57.47,-1.78,4,-0.3321369821271189,0.056998379030966835,before 1990
+Uria aalge | Bullers of Buchan | 2009,Uria aalge,Common guillemot,Bullers of Buchan,2009,57.42,-1.82,4,-0.045137015135982624,0.26392263216389894,1990 or later
+Uria aalge | Burravoe | 2009,Uria aalge,Common guillemot,Burravoe,2009,60.58,-1.05,4,-0.5907783532125429,-0.10350270248772848,1990 or later
+Uria aalge | Canna | 1981,Uria aalge,Common guillemot,Canna,1981,57.05,-6.53,4,0.5728932103386256,-0.4445986125110052,before 1990
+Uria aalge | Canna | 1982,Uria aalge,Common guillemot,Canna,1982,57.05,-6.53,3,0.7271239215234228,-0.20190190621652532,before 1990
+Uria aalge | Canna | 1983,Uria aalge,Common guillemot,Canna,1983,57.05,-6.53,3,0.6857816966374606,-0.43630079408217737,before 1990
+Uria aalge | Canna | 1984,Uria aalge,Common guillemot,Canna,1984,57.05,-6.53,3,0.5395738891367917,-0.5764734363706613,before 1990
+Uria aalge | Canna | 1985,Uria aalge,Common guillemot,Canna,1985,57.05,-6.53,3,0.6490134183109426,-0.42180749022997654,before 1990
+Uria aalge | Canna | 1986,Uria aalge,Common guillemot,Canna,1986,57.05,-6.53,3,0.7978931876616508,-0.14177048123513025,before 1990
+Uria aalge | Canna | 1987,Uria aalge,Common guillemot,Canna,1987,57.05,-6.53,3,0.7285128356038924,-0.7134965272861843,before 1990
+Uria aalge | Canna | 1988,Uria aalge,Common guillemot,Canna,1988,57.05,-6.53,3,0.6989048940245483,-0.3032010812079994,before 1990
+Uria aalge | Canna | 1989,Uria aalge,Common guillemot,Canna,1989,57.05,-6.53,3,0.5300999423768218,-0.5548559036840615,before 1990
+Uria aalge | Canna | 1990,Uria aalge,Common guillemot,Canna,1990,57.05,-6.53,3,0.6681316262102734,-0.4528007609745222,1990 or later
+Uria aalge | Canna | 1991,Uria aalge,Common guillemot,Canna,1991,57.05,-6.53,3,0.6191985232354381,-0.44193371438308027,1990 or later
+Uria aalge | Canna | 1992,Uria aalge,Common guillemot,Canna,1992,57.05,-6.53,3,0.45360140815329614,-0.911094156633485,1990 or later
+Uria aalge | Canna | 1993,Uria aalge,Common guillemot,Canna,1993,57.05,-6.53,3,0.5969417509680559,-0.651582313580392,1990 or later
+Uria aalge | Canna | 1994,Uria aalge,Common guillemot,Canna,1994,57.05,-6.53,3,0.6610105545113554,-0.6730707883155207,1990 or later
+Uria aalge | Canna | 1995,Uria aalge,Common guillemot,Canna,1995,57.05,-6.53,3,0.5931086479415334,-0.7813051940587558,1990 or later
+Uria aalge | Canna | 1996,Uria aalge,Common guillemot,Canna,1996,57.05,-6.53,3,0.5873222155745178,-0.6788726511159072,1990 or later
+Uria aalge | Canna | 1997,Uria aalge,Common guillemot,Canna,1997,57.05,-6.53,3,0.6201771225236807,-0.8796096351839348,1990 or later
+Uria aalge | Canna | 1998,Uria aalge,Common guillemot,Canna,1998,57.05,-6.53,3,0.6332458115530594,-0.5930149371953805,1990 or later
+Uria aalge | Canna | 1999,Uria aalge,Common guillemot,Canna,1999,57.05,-6.53,3,0.62063550650645,-0.739430098246522,1990 or later
+Uria aalge | Canna | 2000,Uria aalge,Common guillemot,Canna,2000,57.05,-6.53,3,0.6646913457485472,-0.6209851280032073,1990 or later
+Uria aalge | Canna | 2001,Uria aalge,Common guillemot,Canna,2001,57.05,-6.53,3,0.6206071184568308,-0.5172591913489305,1990 or later
+Uria aalge | Canna | 2002,Uria aalge,Common guillemot,Canna,2002,57.05,-6.53,3,0.6086394195920964,-0.8568814283682297,1990 or later
+Uria aalge | Canna | 2003,Uria aalge,Common guillemot,Canna,2003,57.05,-6.53,3,0.5675997983470402,-0.777831016652863,1990 or later
+Uria aalge | Canna | 2004,Uria aalge,Common guillemot,Canna,2004,57.05,-6.53,3,0.6890412734120425,-0.6428139580746641,1990 or later
+Uria aalge | Canna | 2005,Uria aalge,Common guillemot,Canna,2005,57.05,-6.53,3,0.9202600210862055,-0.24390351714130182,1990 or later
+Uria aalge | Canna | 2006,Uria aalge,Common guillemot,Canna,2006,57.05,-6.53,3,0.6489696797301336,-0.2662635661306796,1990 or later
+Uria aalge | Canna | 2007,Uria aalge,Common guillemot,Canna,2007,57.05,-6.53,3,0.6828172191856945,-0.20908286255057462,1990 or later
+Uria aalge | Clyde Front | 1988,Uria aalge,Common guillemot,Clyde Front,1988,55.26,-5.63,4,0.30320357808139226,-0.886702713055352,before 1990
+Uria aalge | Co. Kerry | 1973,Uria aalge,Common guillemot,Co. Kerry,1973,52.17,-9.75,4,-0.45473445959172926,0.17298464163710073,before 1990
+Uria aalge | Colonsay | 2009,Uria aalge,Common guillemot,Colonsay,2009,56.08,-6.25,4,-0.7078180027320042,-0.01707328923111597,1990 or later
+Uria aalge | Duncansby | 2009,Uria aalge,Common guillemot,Duncansby,2009,58.63,-3.03,4,-0.3336613933679151,0.1161343549405193,1990 or later
+Uria aalge | East Anglia | 1983,Uria aalge,Common guillemot,East Anglia,1983,52.5,1.0,3,0.42293705277412713,-1.0631982910858677,before 1990
+Uria aalge | Fair Isle | 1988,Uria aalge,Common guillemot,Fair Isle,1988,59.56,-1.63,4,-0.7037751518780834,-0.0857197107405942,before 1990
+Uria aalge | Fair Isle | 2009,Uria aalge,Common guillemot,Fair Isle,2009,59.56,-1.63,4,-0.24950651574635777,-0.08427267758783594,1990 or later
+Uria aalge | Firth of Forth | 1983,Uria aalge,Common guillemot,Firth of Forth,1983,56.12,-2.69,4,-0.2865088435109686,0.12464373952827265,before 1990
+Uria aalge | Fowl Craig | 2009,Uria aalge,Common guillemot,Fowl Craig,2009,59.37,-2.88,4,-0.6560500619498532,0.03836187505340098,1990 or later
+Uria aalge | Fowlsheugh | 2009,Uria aalge,Common guillemot,Fowlsheugh,2009,56.92,-2.2,4,-0.31771841015055236,0.12624438614704417,1990 or later
+Uria aalge | Gultack | 2009,Uria aalge,Common guillemot,Gultack,2009,58.95,-2.71,4,-0.7539097158436527,-0.06840510466815497,1990 or later
+Uria aalge | Handa Island | 2009,Uria aalge,Common guillemot,Handa Island,2009,58.38,-5.19,4,-0.597815577626108,0.01837702114274992,1990 or later
+Uria aalge | Isle of May | 1981,Uria aalge,Common guillemot,Isle of May,1981,56.19,-2.56,4,-0.37646839874847077,-0.39968082300942614,before 1990
+Uria aalge | Isle of May | 1982,Uria aalge,Common guillemot,Isle of May,1982,56.19,-2.56,4,-0.6094772131854598,-0.11218758990674962,before 1990
+Uria aalge | Isle of May | 1983,Uria aalge,Common guillemot,Isle of May,1983,56.19,-2.56,4,-0.5039079239038373,-0.2901527199111204,before 1990
+Uria aalge | Isle of May | 1984,Uria aalge,Common guillemot,Isle of May,1984,56.19,-2.56,4,-0.574610186027154,-0.22022258205100112,before 1990
+Uria aalge | Isle of May | 1986,Uria aalge,Common guillemot,Isle of May,1986,56.19,-2.56,4,-0.6471166299749455,0.04779537363033289,before 1990
+Uria aalge | Isle of May | 1987,Uria aalge,Common guillemot,Isle of May,1987,56.19,-2.56,4,-0.5732256587944393,0.12425963218140067,before 1990
+Uria aalge | Isle of May | 1988,Uria aalge,Common guillemot,Isle of May,1988,56.19,-2.56,4,-0.40863679830827454,0.2931907889871427,before 1990
+Uria aalge | Isle of May | 1989,Uria aalge,Common guillemot,Isle of May,1989,56.19,-2.56,4,-0.6065304338885777,0.05936819395349781,before 1990
+Uria aalge | Isle of May | 1990,Uria aalge,Common guillemot,Isle of May,1990,56.19,-2.56,4,-0.4494912085092068,0.2781781463375318,1990 or later
+Uria aalge | Isle of May | 1991,Uria aalge,Common guillemot,Isle of May,1991,56.19,-2.56,4,-0.5349138715427711,0.16818323341765162,1990 or later
+Uria aalge | Isle of May | 1992,Uria aalge,Common guillemot,Isle of May,1992,56.19,-2.56,4,-0.41325377406846364,0.2858386425387707,1990 or later
+Uria aalge | Isle of May | 1993,Uria aalge,Common guillemot,Isle of May,1993,56.19,-2.56,4,-0.25167333769572564,0.5813581009759813,1990 or later
+Uria aalge | Isle of May | 1994,Uria aalge,Common guillemot,Isle of May,1994,56.19,-2.56,4,-0.2258756447270768,0.6202648215372688,1990 or later
+Uria aalge | Isle of May | 1995,Uria aalge,Common guillemot,Isle of May,1995,56.19,-2.56,4,-0.47275271687241777,0.2075008783119741,1990 or later
+Uria aalge | Isle of May | 1996,Uria aalge,Common guillemot,Isle of May,1996,56.19,-2.56,4,-0.3664208603341299,0.3914057996154434,1990 or later
+Uria aalge | Isle of May | 1997,Uria aalge,Common guillemot,Isle of May,1997,56.19,-2.56,4,-0.605859169395288,0.08906685227562691,1990 or later
+Uria aalge | Isle of May | 1998,Uria aalge,Common guillemot,Isle of May,1998,56.19,-2.56,4,-0.2680779341229864,0.5541405427516484,1990 or later
+Uria aalge | Isle of May | 1999,Uria aalge,Common guillemot,Isle of May,1999,56.19,-2.56,4,-0.1806259513456543,0.46870938080919117,1990 or later
+Uria aalge | Isle of May | 2000,Uria aalge,Common guillemot,Isle of May,2000,56.19,-2.56,4,-0.43315633488660266,0.2990901439116469,1990 or later
+Uria aalge | Isle of May | 2001,Uria aalge,Common guillemot,Isle of May,2001,56.19,-2.56,4,-0.275736248939253,0.4915447048152179,1990 or later
+Uria aalge | Isle of May | 2002,Uria aalge,Common guillemot,Isle of May,2002,56.19,-2.56,4,-0.3401156699374838,0.43685437294114116,1990 or later
+Uria aalge | Isle of May | 2003,Uria aalge,Common guillemot,Isle of May,2003,56.19,-2.56,4,0.2573922603457492,0.24696753274474575,1990 or later
+Uria aalge | Isle of May | 2004,Uria aalge,Common guillemot,Isle of May,2004,56.19,-2.56,4,0.3727665646185671,0.503454241613042,1990 or later
+Uria aalge | Isle of May | 2005,Uria aalge,Common guillemot,Isle of May,2005,56.19,-2.56,4,-0.010656982126240248,0.7247367817674579,1990 or later
+Uria aalge | Isle of May | 2006,Uria aalge,Common guillemot,Isle of May,2006,56.19,-2.56,4,-0.23439716140761457,0.6062219585623053,1990 or later
+Uria aalge | Isle of May | 2007,Uria aalge,Common guillemot,Isle of May,2007,56.19,-2.56,4,-0.05621353476429934,0.7200331026041407,1990 or later
+Uria aalge | Isle of May | 2008,Uria aalge,Common guillemot,Isle of May,2008,56.19,-2.56,4,-0.16623528188868472,0.539659660022706,1990 or later
+Uria aalge | Isle of May | 2009,Uria aalge,Common guillemot,Isle of May,2009,56.19,-2.56,4,-0.17304174405859757,0.5077188697534479,1990 or later
+Uria aalge | Isle of May | 2010,Uria aalge,Common guillemot,Isle of May,2010,56.19,-2.56,4,-0.19291399813639315,0.661524436062537,1990 or later
+Uria aalge | Isle of May | 2011,Uria aalge,Common guillemot,Isle of May,2011,56.19,-2.56,4,-0.2270289007753086,0.6071340805219403,1990 or later
+Uria aalge | Isle of May | 2012,Uria aalge,Common guillemot,Isle of May,2012,56.19,-2.56,4,-0.14975172263888736,0.6399863287668393,1990 or later
+Uria aalge | Isle of May | 2013,Uria aalge,Common guillemot,Isle of May,2013,56.19,-2.56,4,-0.1701765388591345,0.6614675768267166,1990 or later
+Uria aalge | Isle of May | 2014,Uria aalge,Common guillemot,Isle of May,2014,56.19,-2.56,4,-0.07133733703274704,0.7905135025684376,1990 or later
+Uria aalge | Isle of May | 2015,Uria aalge,Common guillemot,Isle of May,2015,56.19,-2.56,4,-0.11918434643478144,0.7321218177893699,1990 or later
+Uria aalge | Isle of May | 2016,Uria aalge,Common guillemot,Isle of May,2016,56.19,-2.56,4,-0.04261766964440694,0.6283576925401219,1990 or later
+Uria aalge | Isle of May | 2017,Uria aalge,Common guillemot,Isle of May,2017,56.19,-2.56,4,-0.03290586374003301,0.7956043773679999,1990 or later
+Uria aalge | Lundy | 2009,Uria aalge,Common guillemot,Lundy,2009,51.17,-4.67,4,-0.4842691544010111,0.2273277731305779,1990 or later
+Uria aalge | Lunga | 2009,Uria aalge,Common guillemot,Lunga,2009,56.48,-6.43,4,-0.7539097158436523,-0.06840510466815505,1990 or later
+Uria aalge | Marwick | 2009,Uria aalge,Common guillemot,Marwick,2009,59.01,-3.35,4,-0.031135845469007908,-0.12620018944813705,1990 or later
+Uria aalge | Moray Firth | 1983,Uria aalge,Common guillemot,Moray Firth,1983,57.75,-3.5,1,0.04419215282885382,-1.2477604396948836,before 1990
+Uria aalge | Mull Head | 2009,Uria aalge,Common guillemot,Mull Head,2009,58.97,-2.71,4,-0.5841707555385085,-0.04663319052105386,1990 or later
+Uria aalge | Newcastle | 1983,Uria aalge,Common guillemot,Newcastle,1983,54.972,-1.608,1,0.15531416111227547,-1.1778075564925243,before 1990
+Uria aalge | North Channel | 1988,Uria aalge,Common guillemot,North Channel,1988,55.23,-6.04,3,1.0467841635861554,0.10712516775815867,before 1990
+Uria aalge | Orkney | 1983,Uria aalge,Common guillemot,Orkney,1983,59.0,-3.0,4,-0.6008562460484019,-0.04538317923667186,before 1990
+Uria aalge | Ramsey | 2009,Uria aalge,Common guillemot,Ramsey,2009,51.87,-5.34,4,-0.14098724534463875,0.7447813582236863,1990 or later
+Uria aalge | Rathlin | 2008,Uria aalge,Common guillemot,Rathlin,2008,55.29,-6.19,4,-0.30848420670698595,0.4849520508084556,1990 or later
+Uria aalge | Rathlin | 2009,Uria aalge,Common guillemot,Rathlin,2009,55.29,-6.19,4,-0.18689402523165433,0.3159540874721455,1990 or later
+Uria aalge | Rathlin | 2010,Uria aalge,Common guillemot,Rathlin,2010,55.29,-6.19,4,-0.06053807872693091,0.23884625798739004,1990 or later
+Uria aalge | Row Head | 2009,Uria aalge,Common guillemot,Row Head,2009,59.03,-3.35,4,-0.1632198648281134,0.16490802225194126,1990 or later
+Uria aalge | Shetland | 1983,Uria aalge,Common guillemot,Shetland,1983,60.25,-1.5,4,-0.3227596509576626,0.004744354037509043,before 1990
+Uria aalge | Skomer | 1973,Uria aalge,Common guillemot,Skomer,1973,51.62,-5.29,4,-0.032829622055370114,0.8768066300790294,before 1990
+Uria aalge | Skomer | 1975,Uria aalge,Common guillemot,Skomer,1975,51.62,-5.29,4,-0.03538982991211925,0.874436679298236,before 1990
+Uria aalge | Skomer | 1985,Uria aalge,Common guillemot,Skomer,1985,51.62,-5.29,3,-0.19977648889384725,-0.570887357741889,before 1990
+Uria aalge | Skomer | 1986,Uria aalge,Common guillemot,Skomer,1986,51.62,-5.29,3,-0.07246885450422416,-0.694584511189683,before 1990
+Uria aalge | Skomer | 1987,Uria aalge,Common guillemot,Skomer,1987,51.62,-5.29,3,-0.08178656797110001,-0.6856373212357346,before 1990
+Uria aalge | Skomer | 1992,Uria aalge,Common guillemot,Skomer,1992,51.62,-5.29,4,-0.1342389275179452,0.7534799125753535,1990 or later
+Uria aalge | Skomer | 1993,Uria aalge,Common guillemot,Skomer,1993,51.62,-5.29,4,-0.020647420106964222,0.8306502496029091,1990 or later
+Uria aalge | Skomer | 1994,Uria aalge,Common guillemot,Skomer,1994,51.62,-5.29,4,-0.020647420106964236,0.8306502496029088,1990 or later
+Uria aalge | Skomer | 1995,Uria aalge,Common guillemot,Skomer,1995,51.62,-5.29,4,-0.1432491681916732,0.6282977358345609,1990 or later
+Uria aalge | Skomer | 1996,Uria aalge,Common guillemot,Skomer,1996,51.62,-5.29,4,-0.1161080331002737,0.5892092945632956,1990 or later
+Uria aalge | Skomer | 1997,Uria aalge,Common guillemot,Skomer,1997,51.62,-5.29,4,-0.05546577285616585,0.7696251858299326,1990 or later
+Uria aalge | Skomer | 1998,Uria aalge,Common guillemot,Skomer,1998,51.62,-5.29,4,-0.29848095739085034,0.45395806488533746,1990 or later
+Uria aalge | Skomer | 1999,Uria aalge,Common guillemot,Skomer,1999,51.62,-5.29,4,-0.0854416264397522,0.7721137572420512,1990 or later
+Uria aalge | Skomer | 2000,Uria aalge,Common guillemot,Skomer,2000,51.62,-5.29,4,-0.09247638900855552,0.8044383991154376,1990 or later
+Uria aalge | Skomer | 2001,Uria aalge,Common guillemot,Skomer,2001,51.62,-5.29,4,-0.10666535969628814,0.7814410156312762,1990 or later
+Uria aalge | Skomer | 2002,Uria aalge,Common guillemot,Skomer,2002,51.62,-5.29,4,-0.09262748978227932,0.8047713204669522,1990 or later
+Uria aalge | Skomer | 2003,Uria aalge,Common guillemot,Skomer,2003,51.62,-5.29,4,0.005438629189814064,0.8763941268858139,1990 or later
+Uria aalge | Skomer | 2004,Uria aalge,Common guillemot,Skomer,2004,51.62,-5.29,4,-0.08722041820884126,0.812216578353605,1990 or later
+Uria aalge | Skomer | 2005,Uria aalge,Common guillemot,Skomer,2005,51.62,-5.29,4,0.006038538853029472,0.8778982886066283,1990 or later
+Uria aalge | Skomer | 2006,Uria aalge,Common guillemot,Skomer,2006,51.62,-5.29,4,-0.11780474286932188,0.7276555597828246,1990 or later
+Uria aalge | Skomer | 2007,Uria aalge,Common guillemot,Skomer,2007,51.62,-5.29,4,-0.049272299313152225,0.775563997059668,1990 or later
+Uria aalge | Skomer | 2008,Uria aalge,Common guillemot,Skomer,2008,51.62,-5.29,4,0.008000735657992624,0.7521030486978804,1990 or later
+Uria aalge | Skomer | 2009,Uria aalge,Common guillemot,Skomer,2009,51.62,-5.29,4,-0.14607779509938357,0.6475151127394607,1990 or later
+Uria aalge | Skomer | 2010,Uria aalge,Common guillemot,Skomer,2010,51.62,-5.29,4,-0.25293941154493627,0.532612198309725,1990 or later
+Uria aalge | Skomer | 2011,Uria aalge,Common guillemot,Skomer,2011,51.62,-5.29,4,-0.11351850206169654,0.7659412554905785,1990 or later
+Uria aalge | Skomer | 2012,Uria aalge,Common guillemot,Skomer,2012,51.62,-5.29,4,-0.09610860860032436,0.759724103168762,1990 or later
+Uria aalge | Skomer | 2013,Uria aalge,Common guillemot,Skomer,2013,51.62,-5.29,4,-0.18110264671601592,0.442160981618923,1990 or later
+Uria aalge | Skomer | 2014,Uria aalge,Common guillemot,Skomer,2014,51.62,-5.29,4,-0.1257465764239132,0.43443378781830516,1990 or later
+Uria aalge | Skomer | 2015,Uria aalge,Common guillemot,Skomer,2015,51.62,-5.29,4,-0.09295954582154388,0.4618251576479528,1990 or later
+Uria aalge | Skomer | 2016,Uria aalge,Common guillemot,Skomer,2016,51.62,-5.29,4,-0.19347032717866608,0.5376285096605455,1990 or later
+Uria aalge | Skomer | 2017,Uria aalge,Common guillemot,Skomer,2017,51.62,-5.29,4,0.1920418119364724,0.1600829363803976,1990 or later
+Uria aalge | St Abbs | 2009,Uria aalge,Common guillemot,St Abbs,2009,55.92,-2.13,4,-0.15073922172179882,0.4353069466354336,1990 or later
+Uria aalge | St Kilda | 1988,Uria aalge,Common guillemot,St Kilda,1988,57.81,-8.58,4,0.4732160820739536,0.643537707118518,before 1990
+Uria aalge | St Kilda | 2009,Uria aalge,Common guillemot,St Kilda,2009,57.82,-8.58,4,-0.16129206825234085,0.00917985592602892,1990 or later
+Uria aalge | St. Kilda Whale Rock Bank | 1988,Uria aalge,Common guillemot,St. Kilda Whale Rock Bank,1988,57.85,-8.11,3,0.6541360555994883,0.28011944405798633,before 1990
+Uria aalge | Sumburgh Head | 1991,Uria aalge,Common guillemot,Sumburgh Head,1991,59.85429,-1.2753087,4,-0.18625482921647413,-0.23653682813240787,1990 or later
+Uria aalge | Sumburgh Head | 2007,Uria aalge,Common guillemot,Sumburgh Head,2007,59.85429,-1.2753087,4,-0.3240340630455876,-0.16057498142507884,1990 or later
+Uria aalge | Sumburgh Head | 2008,Uria aalge,Common guillemot,Sumburgh Head,2008,59.85429,-1.2753087,4,-0.505027355995575,-0.5170128310197297,1990 or later
+Uria aalge | Sumburgh Head | 2009,Uria aalge,Common guillemot,Sumburgh Head,2009,59.85429,-1.2753087,4,-0.14189235250568533,-0.211359624238154,1990 or later
+Uria aalge | Summer Isles | 1988,Uria aalge,Common guillemot,Summer Isles,1988,57.92,-5.43,3,0.9751385359704273,-0.2581602556937531,before 1990
+Uria aalge | Troup Head | 2009,Uria aalge,Common guillemot,Troup Head,2009,57.68,-2.3,4,-0.4650006396281833,0.03468340635946692,1990 or later

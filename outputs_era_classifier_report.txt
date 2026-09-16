@@ -1,0 +1,22 @@
+Task: predict whether a diet sample is from 1990 or later, using only its prey composition (no year or location given to the model).
+Held out accuracy: 0.864 (majority class baseline: 0.691)
+Held out ROC AUC: 0.864
+5 fold CV ROC AUC: 0.855 +/- 0.058
+
+Top indicator prey taxa (feature importance):
+preyGroup
+Clupeidae               0.218209
+Gadidae                 0.150510
+Ammodytidae             0.117007
+Sprattus sprattus       0.086133
+Ammodytes marinus       0.075674
+Merlangius merlangus    0.044666
+Gaidropsarus            0.042372
+Other/rare prey         0.040994
+Actinopterygii          0.027167
+Crustacea               0.022032
+other                   0.019222
+Gobiidae                0.016995
+Polychaeta              0.014961
+Pollachius virens       0.011862
+Lotidae                 0.011473
