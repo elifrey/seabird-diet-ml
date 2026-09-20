@@ -2,6 +2,8 @@
 
 A one day machine learning demonstration built while applying for the AWI/MarDATA PhD position in Data Science and Bioinformatics for Marine and Arctic Biodiversity. It is a portfolio proof of concept, not a submitted or peer reviewed study, see Limitations below.
 
+**Write up:** [What 84 years of seabird diets reveal about a hidden ocean shift](https://simplyecologist.com/machine-learning-in-ecology-seabird-diets/), a plain language walkthrough of the method and the results.
+
 ## What this shows
 
 The posting asks for experience applying supervised algorithms (including for environmental predictions) and unsupervised algorithms to biodiversity data, Python with data science libraries, sequence and dataset harmonization skills, and interest in interpreting patterns from long term Arctic and marine monitoring data. This project runs that full workflow end to end on a real, open, 84 year seabird monitoring dataset:
@@ -55,3 +57,13 @@ seabird_diet_ml_analysis.ipynb   narrated walkthrough with embedded figures and 
 figures_*.png              all generated plots (analysis.py recreates these under figures/ when run locally)
 outputs_*.csv / .txt       harmonized table, composition matrix, cluster assignments, classifier reports
 ```
+
+## Licence
+
+Code in this repository is MIT licensed, see `LICENSE`.
+
+The harmonized occurrence table `outputs_harmonized_occurrence_table.csv` is a derived work released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse it freely, including commercially, with credit:
+
+> Frey, E. (2026). Harmonized seabird diet occurrence table, British Isles 1933 to 2017. Derived from seabirddietDB. https://github.com/elifrey/seabird-diet-ml ORCID 0009-0002-7482-7986
+
+The underlying records come from seabirddietDB by Krystalli, Olin, Grecian and Nager (2019), used with attribution. See `LICENSE_DATA.md` for the full terms.
