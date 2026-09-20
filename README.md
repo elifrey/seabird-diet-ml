@@ -1,5 +1,7 @@
 # Long term shifts in North Atlantic seabird diet composition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22859118.svg)](https://doi.org/10.5281/zenodo.22859118)
+
 A one day machine learning demonstration built while applying for the AWI/MarDATA PhD position in Data Science and Bioinformatics for Marine and Arctic Biodiversity. It is a portfolio proof of concept, not a submitted or peer reviewed study, see Limitations below.
 
 **Write up:** [What 84 years of seabird diets reveal about a hidden ocean shift](https://simplyecologist.com/machine-learning-in-ecology-seabird-diets/), a plain language walkthrough of the method and the results.
@@ -67,3 +69,9 @@ The harmonized occurrence table `outputs_harmonized_occurrence_table.csv` is a d
 > Frey, E. (2026). Harmonized seabird diet occurrence table, British Isles 1933 to 2017. Derived from seabirddietDB. https://github.com/elifrey/seabird-diet-ml ORCID 0009-0002-7482-7986
 
 The underlying records come from seabirddietDB by Krystalli, Olin, Grecian and Nager (2019), used with attribution. See `LICENSE_DATA.md` for the full terms.
+
+## How to cite
+
+> Frey, E. (2026). elifrey/seabird-diet-ml: Seabird diet machine learning (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22859118
+
+That DOI resolves to the latest version. The v1.0.0 snapshot is 10.5281/zenodo.22859119.
