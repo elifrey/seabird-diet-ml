@@ -1,0 +1,10 @@
+{
+  "title": "Long term shifts in North Atlantic seabird diet composition",
+  "upload_type": "software",
+  "creators": [
+    {"name": "Frey, Erzsebet", "orcid": "0009-0002-7482-7986"}
+  ],
+  "description": "Supervised and unsupervised machine learning on 84 years (1933 to 2017) of seabird diet records from the British Isles (seabirddietDB). The raw records are harmonised into a Darwin Core style occurrence table with WoRMS AphiaIDs, summarised as a colony year by prey taxon composition matrix, clustered with Bray Curtis dissimilarity and NMDS, and used to train random forest classifiers that predict predator species and whether a diet sample dates from before or after 1990.",
+  "keywords": ["seabirds", "diet", "machine learning", "random forest", "NMDS", "Bray Curtis", "Darwin Core", "long term monitoring", "North Atlantic", "biodiversity data"],
+  "license": "MIT"
+}
