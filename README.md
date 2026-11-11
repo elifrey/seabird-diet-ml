@@ -2,13 +2,13 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22859118.svg)](https://doi.org/10.5281/zenodo.22859118)
 
-A one day machine learning demonstration built while applying for the AWI/MarDATA PhD position in Data Science and Bioinformatics for Marine and Arctic Biodiversity. It is a portfolio proof of concept, not a submitted or peer reviewed study, see Limitations below.
+Supervised and unsupervised machine learning on 84 years of North Atlantic seabird diet records: Darwin Core style harmonisation, Bray Curtis clustering with NMDS, and random forest classifiers for predator species and for diet change before and after 1990. It is an independent analysis of open data, not a peer reviewed study; see Limitations below.
 
 **Write up:** [What 84 years of seabird diets reveal about a hidden ocean shift](https://simplyecologist.com/machine-learning-in-ecology-seabird-diets/), a plain language walkthrough of the method and the results.
 
 ## What this shows
 
-The posting asks for experience applying supervised algorithms (including for environmental predictions) and unsupervised algorithms to biodiversity data, Python with data science libraries, sequence and dataset harmonization skills, and interest in interpreting patterns from long term Arctic and marine monitoring data. This project runs that full workflow end to end on a real, open, 84 year seabird monitoring dataset:
+This project runs a full biodiversity data workflow end to end, from raw records to supervised and unsupervised models, on a real, open, 84 year seabird monitoring dataset:
 
 1. Harmonizes a raw diet records table into a documented, Darwin Core style occurrence schema, keeping the original WoRMS AphiaID taxonomic identifiers so the table stays joinable to other AphiaID or GBIF backbone indexed sources.
 2. Builds a colony year by prey taxon diet composition matrix, the diet ecology equivalent of a site by species community matrix.
@@ -29,9 +29,9 @@ Full numbers, the confusion matrix, feature importances and all figures are in t
 
 ## Limitations
 
-- Northeast Atlantic colonies, not the Arctic sites named in the posting. The method transfers directly; it has not been run on Arctic data here.
+- Northeast Atlantic colonies only. The method transfers directly to Arctic monitoring data; it has not been run on Arctic data here.
 - Only 2011 of 2857 raw records had a usable frequency of occurrence value; rows without one were dropped rather than imputed.
-- The 1990 threshold is a simplification for the demonstration, not fitted to a specific documented shift year, and about a third of samples come from one very well sampled colony (Isle of May).
+- The 1990 threshold is a simplification, not fitted to a specific documented shift year, and about a third of samples come from one very well sampled colony (Isle of May).
 - The NMDS ordination has a moderate stress value (about 0.22), a useful but not highly precise two dimensional summary of the Bray Curtis distances.
 - No environmental covariates (sea surface temperature, ice extent, bathymetry) are used. The era classifier is a biological proxy signal, not an explicit environment to biology model.
 
@@ -72,6 +72,10 @@ The underlying records come from seabirddietDB by Krystalli, Olin, Grecian and N
 
 ## How to cite
 
-> Frey, E. (2026). elifrey/seabird-diet-ml: Seabird diet machine learning (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22859118
+> Frey, E. (2026). Long term shifts in North Atlantic seabird diet composition (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.22859118
 
 That DOI resolves to the latest version. The v1.0.0 snapshot is 10.5281/zenodo.22859119.
+
+Please also cite the data source:
+
+> Krystalli, A., Olin, A., Grecian, J. and Nager, R. (2019). seabirddietDB: Seabird Diet Database (R package version 0.0.1). https://github.com/annakrystalli/seabirddietDB
